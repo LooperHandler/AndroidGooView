@@ -3,7 +3,7 @@
 
 ## Preview
 
-ScreenShot文件夹为效果演示图
+ScreenShot文件夹为效果演示图（与项目代码无关）
 
 ![](https://raw.githubusercontent.com/smartbetter/Android-GooView/master/ScreenShot/screenshot.gif)
 
