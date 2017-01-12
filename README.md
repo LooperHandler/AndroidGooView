@@ -5,7 +5,7 @@
 
 ScreenShot文件夹为效果演示图（与项目代码无关）
 
-![](https://raw.githubusercontent.com/smartbetter/Android-GooView/master/ScreenShot/screenshot.gif)
+![](https://raw.githubusercontent.com/smartbetter/AndroidGooView/master/ScreenShot/screenshot.gif)
 
 ## Usage
 直接下载demo查看吧。
